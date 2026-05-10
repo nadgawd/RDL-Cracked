@@ -1,0 +1,17 @@
+{
+  "name": "ppt12 Bio Physical Growth-Sustainability.pdf",
+  "short_name": "ppt12 Bio Physical Growth",
+  "description": "Economics of Sustainable Development",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/pdf.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
